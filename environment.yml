@@ -25,6 +25,8 @@ dependencies:
   - decorator=4.4.2=py_0
   - defusedxml=0.6.0=py_0
   - entrypoints=0.3=py37_0
+  - flask=1.0.3=py37_0
+  - flask-wtf=0.14.3=py_0
   - freetype=2.10.2=hd328e21_0
   - gast=0.2.2=py37_0
   - google-auth=1.20.1=py_0
@@ -43,6 +45,7 @@ dependencies:
   - ipython=7.17.0=py37h39e3cac_0
   - ipython_genutils=0.2.0=py37_0
   - ipywidgets=7.5.1=py_0
+  - itsdangerous=1.1.0=py37_0
   - jedi=0.15.2=py37_0
   - jinja2=2.11.2=py_0
   - joblib=0.16.0=py_0
@@ -124,6 +127,7 @@ dependencies:
   - tensorboard-plugin-wit=1.6.0=py_0
   - tensorflow=2.1.0=eigen_py37hd727fc0_0
   - tensorflow-base=2.1.0=eigen_py37h49b2757_0
+  - tensorflow-estimator=2.1.0=pyhd54b08b_0
   - termcolor=1.1.0=py37_1
   - terminado=0.8.3=py37_0
   - testpath=0.4.4=py_0
@@ -142,12 +146,12 @@ dependencies:
   - wincertstore=0.2=py37_0
   - winpty=0.4.3=4
   - wrapt=1.12.1=py37he774522_1
+  - wtforms=2.3.1=py_0
   - zeromq=4.3.2=ha925a31_2
   - zipp=3.1.0=py_0
   - zlib=1.2.11=h62dcd97_4
   - pip:
     - scipy==1.4.1
     - tensorboard==2.1.1
-    - tensorflow-estimator==2.1.0
 prefix: C:\Users\NVstores\anaconda3\envs\bcp
 

@@ -65,8 +65,8 @@ class Predict():
 
 
 
-input = ["b",3017.0,0.00065,"u","g","cc","v",3125,"t","t",8,"f","g",330.0,1200,3300000.0,"t",0]
-Predict.predict(input)
+#input = ["b",3017.0,0.00065,"u","g","cc","v",3125,"t","t",8,"f","g",330.0,1200,3300000.0,"t",0]
+#Predict.predict(input)
 
 
 '''
