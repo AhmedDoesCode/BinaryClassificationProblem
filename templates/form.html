@@ -196,12 +196,13 @@
         <div class="testbox">
 
         <form method="POST" action = "{{ url_for('form') }}">
+            <div class="banner">
             <h2>
                 Binary Classification Problem!
             </h2>
              
             <h2>Ahmed Mostafa Abd El-Aal</h2>
-
+             </div>
              
             {{ form.csrf_token }}
             {{ form.variable1.label }}
